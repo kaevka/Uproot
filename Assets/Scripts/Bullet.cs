@@ -32,3 +32,5 @@ public class Bullet : MonoBehaviour
         transform.Translate(Vector2.up * speed * Time.deltaTime);
     }
 }
+
+я ева
